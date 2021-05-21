@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "title": "Learn Angular",
+      "completed": true
+    },
+    {
+      "title": "Learn ExpressJss",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "LEARN NUXT",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
