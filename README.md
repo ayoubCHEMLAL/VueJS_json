@@ -1,4 +1,3 @@
-# vue__ayoub
 
 ## Project setup
 ```
